@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-31T18:35:14 EST" name="Default Suite" finished-at="2022-01-31T18:35:34 EST" duration-ms="20860">
+    <groups>
+    </groups>
+    <test started-at="2022-01-31T18:35:14 EST" name="TDDFramework" finished-at="2022-01-31T18:35:34 EST" duration-ms="20860">
+      <class name="testing.AddToCart">
+        <test-method is-config="true" signature="init()[pri:0, instance:testing.AddToCart@3a079870]" started-at="2022-01-31T18:35:14 EST" name="init" finished-at="2022-01-31T18:35:17 EST" duration-ms="3434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login_userName_password_clickLogInBtn()[pri:1, instance:testing.AddToCart@3a079870]" started-at="2022-01-31T18:35:17 EST" name="login_userName_password_clickLogInBtn" finished-at="2022-01-31T18:35:23 EST" duration-ms="5844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_userName_password_clickLogInBtn -->
+        <test-method signature="after_login_click_laptops_navigate_to_laptops()[pri:2, instance:testing.AddToCart@3a079870]" started-at="2022-01-31T18:35:23 EST" name="after_login_click_laptops_navigate_to_laptops" finished-at="2022-01-31T18:35:28 EST" duration-ms="5413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_login_click_laptops_navigate_to_laptops -->
+        <test-method signature="at_laptops_select_sonyViaoI5_and_verify_sonyViaoI5_page()[pri:3, instance:testing.AddToCart@3a079870]" started-at="2022-01-31T18:35:28 EST" name="at_laptops_select_sonyViaoI5_and_verify_sonyViaoI5_page" finished-at="2022-01-31T18:35:32 EST" duration-ms="3732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at_laptops_select_sonyViaoI5_and_verify_sonyViaoI5_page -->
+        <test-method signature="at_selected_laptop_click_addToCart()[pri:4, instance:testing.AddToCart@3a079870]" started-at="2022-01-31T18:35:32 EST" name="at_selected_laptop_click_addToCart" finished-at="2022-01-31T18:35:33 EST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at_selected_laptop_click_addToCart -->
+        <test-method signature="navigate_to_cart_and_verify_added_product()[pri:5, instance:testing.AddToCart@3a079870]" started-at="2022-01-31T18:35:33 EST" name="navigate_to_cart_and_verify_added_product" finished-at="2022-01-31T18:35:34 EST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_cart_and_verify_added_product -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testing.AddToCart@3a079870]" started-at="2022-01-31T18:35:34 EST" name="closeBrowser" finished-at="2022-01-31T18:35:34 EST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testing.AddToCart -->
+    </test> <!-- TDDFramework -->
+  </suite> <!-- Default Suite -->
+</testng-results>
